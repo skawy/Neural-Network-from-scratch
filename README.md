@@ -58,7 +58,9 @@ At First Iteration we initialized the weights at every layer randomly and by app
 
 ## Perfect References To Understand Neural Network 
 
-1. https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65 *English*
+1. https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65 
+   
+   *English*
 
 2. https://www.youtube.com/watch?v=twOGEhgYuoI&list=PL5JZLxl_tFCczr7SDjVxZce9lw7ESsaQM&index=5
 
