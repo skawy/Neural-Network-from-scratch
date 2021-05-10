@@ -54,3 +54,12 @@ At First Iteration we initialized the weights at every layer randomly and by app
 - we will calculate the error by Mean squared error <img src="https://siegel.work/blog/LossFunctions/img/MSE_Formula.svg" alt="siegel.work - Loss Functions" style="zoom:50%;" />
 - this error will help us to modify all weights from the output layer to the input layer **that is why we are calling it backward propagation** 
 - the whole Iteration of Forwarding till the output layer and Backwarding with changing the weights it is called an *Epoch* 
+
+
+## Perfect References To Understand Neural Network 
+
+1. https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65 *English*
+
+2. https://www.youtube.com/watch?v=twOGEhgYuoI&list=PL5JZLxl_tFCczr7SDjVxZce9lw7ESsaQM&index=5
+
+   *Arabic* 
